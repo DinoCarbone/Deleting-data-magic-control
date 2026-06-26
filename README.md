@@ -1,4 +1,4 @@
-#Data Deletion Request
+# Data Deletion Request
 
 App: Magic Control
 
