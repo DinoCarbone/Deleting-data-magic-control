@@ -1,6 +1,7 @@
 Data Deletion Request
 
 App: Magic Control
+
 Developer: Dino Carbone
 
 This page explains how users of the Magic Control app can request deletion of their data.
